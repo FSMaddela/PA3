@@ -25,24 +25,24 @@ d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) mult
 
 ### Solution
 
-**Problem 2.A**
-Splice the given dataframe to only include odd-numbered indices
+**Problem 2.A** <br>
+Splice the given dataframe to only include odd-numbered indices <br>
 
-Get the first five rows of the spliced dataframe using the syntax:
+Get the first five rows of the spliced dataframe using the syntax: <br>
 `.head`
 
-**Problem 2.B**
-Using the `.loc` syntax, specify the specific car model that should be displayed
+**Problem 2.B** <br>
+Using the `.loc` syntax, specify the specific car model that should be displayed <br>
 
-**Problem 2.C**
-Using the same syntax, index the specific car model then display only the cylinders ('cyl')
+**Problem 2.C** <br>
+Using the same syntax, index the specific car model then display only the cylinders ('cyl') <br>
 
-**Problem 2.D**
-Create a list for the specified car models, this allows the user to check the dataframe for multiple elements
+**Problem 2.D** <br>
+Create a list for the specified car models, this allows the user to check the dataframe for multiple elements <br>
 
-Use `.loc` to index for the given car models and `.isin` to check for each individual model
+Use `.loc` to index for the given car models and `.isin` to check for each individual model <br>
 
-Display the cylinders ('cyl') and gear type ('gear')
+Display the cylinders ('cyl') and gear type ('gear') <br>
 
 ## Version History
 
