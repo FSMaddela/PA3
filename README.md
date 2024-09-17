@@ -17,11 +17,11 @@ Print the last 5 digits using the syntax:
 
 ## Problem 2:
 
-The second problem requires the user to accomplish the following:
-a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
-b. Display the row that contains the model of a specific car.
-c. Display how many cylinders (‘cyl’) a specific car model has.
-d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) multiple car models have.
+The second problem requires the user to accomplish the following: <br>
+a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars. <br>
+b. Display the row that contains the model of a specific car. <br>
+c. Display how many cylinders (‘cyl’) a specific car model has. <br>
+d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) multiple car models have. <br>
 
 ### Solution
 
